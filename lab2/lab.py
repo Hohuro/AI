@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 
 POPULATION_SIZE = 12
-ONE_INDIVIDUAL_SIZE = 34
+ONE_INDIVIDUAL_SIZE = 12
 MAX_GENERATION = 10
 pt_crossover = 0.75
 pm_mutation = 0.001
